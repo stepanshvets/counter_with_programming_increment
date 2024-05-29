@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat May 20 18:12:27 2023
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : coursework_interface
+Top-level Entity Name : coursework_interface
+Family : Cyclone II
+Total logic elements : 18
+    Total combinational functions : 15
+    Dedicated logic registers : 13
+Total registers : 13
+Total pins : 32
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

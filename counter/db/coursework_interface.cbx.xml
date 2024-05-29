@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="coursework_interface">
+		<CBX_INST_ENTRY INSTANCE_NAME="|coursework_interface|coursework_substractor:inst26|lpm_add_sub1:inst7|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_mmh.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
